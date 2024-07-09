@@ -1,0 +1,24 @@
+{
+  "name":"User Management System",
+  "version": "1.0.0",
+  "description": "User management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server":"nodemon index.js"
+  },
+  "author": "Bandi Nithin",
+  "github": "https://github.com/Nithin-Bandi",
+  "email": "125156022@sastra.ac.in",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.18.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.5.0"
+  }
+}
