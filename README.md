@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Install dependencies:
 
-2. npm run server
+2. $ npm run server
 
 
 Ensure MongoDB is running and configured correctly as per your setup.
