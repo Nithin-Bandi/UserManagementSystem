@@ -24,9 +24,16 @@ Defines the schema for customer data, including fields like first name, last nam
 
 To run the project locally, follow these steps:
 
-1. Install dependencies:
+1. Change the mongoDB string as address as per ur local machine 
 
-$ npm run server
+2. Install dependencies:
+```
+  npm install
+```
+3. Run the app
+```
+ npm run server
+```
 
 
 Ensure MongoDB is running and configured correctly as per your setup.
